@@ -1,0 +1,12 @@
+Essentials for PHP
+
+1. Browser          =>  Chrome,Firefox,...etc
+2. Editor           =>  VsCode(My recommanded), PHP Storm (best recommand), Atom, Sublime
+3. Server           =>  Apache
+4. SQL for Database =>  MySql
+
+XAMPP   =>  recommanded   
+other   =>  WAMPP   MAMPP   
+
+for file and photos 
+enctype="multipart/form-data"
